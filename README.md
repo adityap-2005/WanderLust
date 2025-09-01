@@ -63,7 +63,8 @@ npm start
 
 Open in browser → http://localhost:3000
 
-<img src="Screenshot (50).png" width="500">
-<img src="Screenshot (52).png" width="500">
+<img src="Screenshot (50).png" width="500"> <img src="Screenshot (52).png" width="500">
+<img src="Screenshot (53).png" width="500">
+
 
 
