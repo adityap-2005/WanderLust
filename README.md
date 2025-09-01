@@ -64,4 +64,6 @@ npm start
 Open in browser → http://localhost:3000
 
 <img src="Screenshot (50).png" width="500">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b3e553-6bfe-4833-8d83-44b156deb31d" />
+
 
