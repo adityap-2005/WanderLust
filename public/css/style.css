@@ -1,0 +1,132 @@
+body{
+    font : "Plus Jakarta Sans", sans-serif !important;
+    display : flex;
+    flex-direction : column;
+    min-height : 100vh;
+}
+
+.container{
+    padding: 1rem 1.75rem !important ;
+    width: 100%;
+    max-width: 100% !important;
+    flex: 1;
+}
+
+.navbar {
+    height : 5rem;
+    background-color: white;
+    margin: 0.5rem !important;
+}
+
+.fa-compass {
+    color : rgb(241, 51, 51);
+    font-size : 2rem;
+}
+
+.nav-link {
+    color : #222222 !important;
+}
+
+.f-info-links a{
+    text-decoration: none;
+    color : #222222 !important;
+    font-size: 1rem;
+}
+
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+
+.f-info-links,
+.f-info-socials{
+    margin-top: 0.5rem;
+    font-size: 1.25 rem;
+    width: 100%;
+}
+
+.f-info-brand{
+    font-weight: 500;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-info-socials i{
+    margin: 0 0.5rem
+}
+
+.f-info{
+    height : 8rem;
+    background-color: #ebebeb;
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
+    align-items: space-evenly;
+    text-align: center;
+}
+
+.card {
+    border : none !important;
+    text-decoration: none !important;
+}
+
+.index-card{
+    margin: 0.4rem 0.4rem 1.25rem !important;
+    padding: 0 !important;
+}
+
+.card-img-top{
+    border-radius: 1rem !important;
+    width: 100% !important;
+    height: 12rem !important;
+}
+
+.card-body{
+    padding: 0.25rem !important;
+}
+
+.card-title{
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    margin : 0 !important; 
+}
+
+.card-details{
+    font-size: 0.7rem !important;
+    font-weight: 500 !important;
+    color: gray !important;
+    margin: 0 !important;
+}
+
+/* New Page */
+.add-btn{
+    background-color: #f21919 !important;
+    border: none !important;
+}
+
+/* Edit Page */
+.save-btn{
+    background-color: #f21919 !important;
+    border: none !important;
+}
+
+/* Show Page */
+.show-img{
+    height: 60vh !important;
+}
+
+.btns{
+    display: flex;
+    border: none !important;
+}
+
+.edit-btn,
+.back-btn{
+    border: none !important;
+    background-color: #f21919 !important;
+}
+
+.dlt-btn{
+    border: none !important;
+}
+
